@@ -1,0 +1,48 @@
+#encabezado {
+	text-align: center;
+        background-color:rgb(208,149,217);
+        height: 170px;
+}
+
+
+#encabezado h3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 22px;
+        color:rgb(106,60,135);
+        
+}
+
+#encabezado img {
+	float: left; 
+	width: 200px;
+	height: 150px;
+}
+#menu {
+	text-align: center;
+}
+
+#menu li {
+	display: inline;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+        color:rgb(106,60,135);
+	padding: 15px;
+}
+#categorias {
+	float: left;
+	width: 28%;
+	border-right: 2px solid #6A3C87
+}
+#buscador label{
+        font-family: Arial, Helvetica, sans-serif;
+}
+#peliculas {
+	float: right;
+	width: 70%;
+}
+
+.nombre-pelicula {
+	font-style: italic;
+	font-size: 15px;
+}
+

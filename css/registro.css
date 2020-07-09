@@ -1,0 +1,44 @@
+#encabezado {
+    background-color:rgb(208,149,217);
+    height: 70px;
+    color:rgb(106,60,135);
+}
+#title{
+    font-family: arial, sans-serif;
+    font-size: 30px;
+    margin-top: 0px;
+    margin-bottom: 1px;
+    text-align: center;
+}
+
+#atras{
+    border-style: ridge;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 22px;
+    background-color: white;
+}
+#campos{
+    text-align: center;
+
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+#campos1{
+    border-style: ridge;
+    border-radius: 10px;
+    position: relative;
+    margin: auto;
+    height: 35px;
+    width: 20%
+}
+#loginico{
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

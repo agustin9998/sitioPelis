@@ -1,0 +1,39 @@
+.pelicula{
+    float: left;
+    width: 125px;
+    height: 210px;
+    background-color: rgba(0, 0, 255, 0.6);
+    border-style: ridge;
+    border-radius: 10px;
+    transition: transform 0.3s;
+}
+
+.pelicula:hover{
+    transform: scale(1.1);
+}
+
+.nombre-producto{
+    color: white;
+    size: auto;
+    text-decoration: blink;
+    float: center;
+    clear: none;
+    display: inline;
+}
+
+.precio-producto{
+    color:white;
+    size: auto;
+    text-decoration: blink;
+    float: left;
+    margin-left: 5%;
+}
+
+.estrella{
+    content: '\2605 ';
+    color: #c59b08;
+}
+
+#img{
+    
+}

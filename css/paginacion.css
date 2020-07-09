@@ -1,0 +1,13 @@
+#paginacion{
+    position: fixed;
+    bottom: 1px;
+    background-color: red;
+}
+
+#pelicula{
+    display: block;
+    width: available;
+    position: static;
+    margin: 5px 5px 5px 5px;
+}
+
